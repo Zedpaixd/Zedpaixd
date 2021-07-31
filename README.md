@@ -1,3 +1,5 @@
+### About me:
+
 Hello there, I'm Armand / Alex.
 
 There are quite a few things I could say about myself, however, let's keep it short for now.
@@ -7,7 +9,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
   - Github is where I post most of my finished codes, most of my work in progresses are on private
   - I'm open to any sort of questions so feel free to ask anything at any point
 
-Can reach out to me on:
+### Contact:
   - Discord: Planta#9305
   - Email: planta636@gmail.com
 
