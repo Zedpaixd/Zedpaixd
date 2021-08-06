@@ -1,6 +1,6 @@
 ### About me:
 
-Hello there, I'm Armand / Alex and I'm 19.
+Hello there, I'm Armand / Alex.
 
 There are quite a few things I could say about myself, however, let's keep it short for now.
   - I'm currently a year 2 student for my Bachelor's in Computer Science.
