@@ -6,7 +6,8 @@ There are quite a few things I could say about myself, however, let's keep it sh
   - I'm currently a year 2 student for my Bachelor's in Computer Science.
   - My preferred language is Python however I can get behind anything else sort of easily.
   - I much prefer Back-end to Front-end.
-  - So far studied: Python, C/C++, Java, MySQL
+  - Currently know: Python, C/C++, Java, MySQL
+  - And currently studying: Bash
   - Most of my Work In Progresses are on private.
   - Open to collaborate anytime.
   - I'm also open to any sort of questions so feel free to reach out and ask anything at any point.
