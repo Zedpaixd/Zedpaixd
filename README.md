@@ -3,7 +3,7 @@
 Hello there, I'm Armand / Alex.
 
 There are quite a few things I could say about myself, however, let's keep it short for now.
-  - I'm currently a year 2 student for my Bachelor's in Computer Science @ UVT ( / WUT ) in Romania.
+  - I'm currently a year 2 student for my Bachelor's in Computer Science @ UVT ( FMI IE ) in Romania.
   - My preferred language is Python however I can get behind anything else sort of easily.
   - I much prefer Back-end to Front-end.
   - Used Operating Systems: Windows, Ubuntu
