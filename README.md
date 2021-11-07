@@ -6,7 +6,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
   - I'm currently a year 2 student for my Bachelor's in Computer Science @ UVT ( FMI IE ) in Romania.
   - My preferred language is Python however I can get behind anything else sort of easily.
   - I much prefer Back-end to Front-end.
-  - Used Operating Systems: Windows, Ubuntu
+  - Operating Systems I'm using: Windows, Ubuntu
   - Currently know: Python, C/C++, Java, MySQL
   - And currently studying: Bash
   - Most of my Work In Progresses are on private.
