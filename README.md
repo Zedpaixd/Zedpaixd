@@ -8,7 +8,9 @@ There are quite a few things I could say about myself, however, let's keep it sh
   - I much prefer Back-end to Front-end.
   - Operating Systems I'm using: Windows, Ubuntu
   - Currently know: Python, C/C++, Java, MySQL
-  - And currently studying: Bash
+  - And currently studying: Javascript
+  - Spoken Languages: English, Romanian, Hungarian (can understand it)
+  - Languages I'm studying right now: Korean
   - Most of my Work In Progresses are on private.
   - Open to collaborate anytime.
   - I'm also open to any sort of questions so feel free to reach out and ask anything at any point.
