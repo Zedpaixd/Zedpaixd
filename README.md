@@ -20,7 +20,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
   - Email: planta636@gmail.com
 
 
-¹⁶/⁰⁴/²⁰²² ʷᵃˢ ᵃ ᵛᵉʳʸ ᶠᵘⁿ ᵈᵃʸ
+₁₆/₀₄/₂₀₂₂ ʷᵃˢ ᵃ ᵛᵉʳʸ ᶠᵘⁿ ᵈᵃʸ
 <!--
 **Zedpaixd/Zedpaixd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
