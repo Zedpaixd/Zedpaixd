@@ -7,8 +7,8 @@ There are quite a few things I could say about myself, however, let's keep it sh
   - My preferred language is Python however I can get behind anything else sort of easily.
   - I much prefer Back-end to Front-end.
   - Operating Systems I'm using: Windows, Ubuntu
-  - Currently know: Python, C/C++, Java, MySQL, R, Haskell
-  - And currently studying: JS, Prolog
+  - Currently know: Python, C/C++, Java, MySQL, R, Haskell, Prolog
+  - And currently studying: HTML, CSS, JS
   - Spoken Languages: English, Romanian, Hungarian (can understand it)
   - Languages I'm studying right now: Korean
   - Most of my Work In Progresses are on private.
