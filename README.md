@@ -22,9 +22,9 @@ There are quite a few things I could say about myself, however, let's keep it sh
 
 ₁₆.₀₄.₂₀₂₂ ʷᵃˢ ᵃ ᵛᵉʳʸ ᶠᵘⁿ ᵈᵃʸ
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zedpaixd)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zedpaixd&count_private=true&hide=issues,contribs)
 
 <!--
 **Zedpaixd/Zedpaixd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
