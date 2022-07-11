@@ -16,16 +16,16 @@ There are quite a few things I could say about myself, however, let's keep it sh
 -->
 
 <div>  
-  <dl><dd><dl><dd><dl><dd><dl><dd>I'm currently a year 2 student for my Bachelor's in Computer Science @ UVT ( FMI IE ) in Romania. <br></dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>My preferred language is Python however I can get behind anything else sort of easily.</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Senior BSc student in Computer Science @ UVT Romania with a 1 year long exchange student experience in Finland. <br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>I have no preferred language and I can get behind anything else sort of easily.</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>I much prefer Back-end to Front-end.</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Operating Systems I'm using: Windows, Ubuntu</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Currently know: Python, C/C++, Java, MySQL, R, Haskell, Prolog</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>And currently studying: HTML, CSS, JS</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Currently know: Python, C/C++, Java, MySQL, R, Haskell, Prolog, HTML/CSS</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>And currently studying: JS</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Spoken Languages: English, Romanian, Hungarian (can understand it)</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Languages I'm studying right now: Korean</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Most of my Work In Progresses are on private.</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Open to collaborate anytime.</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Always open to collaborate.</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>I'm also open to any sort of questions so feel free to reach out and ask anything at any point.</dd></dl></dd></dl></dd></dl></dd></dl>
  </div>
  
@@ -37,7 +37,8 @@ There are quite a few things I could say about myself, however, let's keep it sh
 <h2 align="center"> Contact: </h2>
 <div align="center"> 
   Discord: Planta#9305 <br>
-  Email: planta636@gmail.com 
+  Email: balintarmand0@gmail.com <br>
+   LinkedIn: <a href="https://www.linkedin.com/in/armand-balint/">armand-balint</a>
 </div><br><br>
 
 
