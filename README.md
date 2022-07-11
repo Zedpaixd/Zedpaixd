@@ -1,3 +1,5 @@
+![Trophies](https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord)
+
 ### About me:
 
 Hello there, I'm Armand / Alex.
@@ -21,8 +23,6 @@ There are quite a few things I could say about myself, however, let's keep it sh
 
 
 ₁₆.₀₄.₂₀₂₂ ʷᵃˢ ᵃ ᵛᵉʳʸ ᶠᵘⁿ ᵈᵃʸ
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zedpaixd&count_private=true&hide=issues,contribs,prs&show_icons=true&theme=tokyonight)
 
