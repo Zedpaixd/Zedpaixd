@@ -1,4 +1,4 @@
-![Trophies](https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord)
+![Trophies](https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord&title=Joined2020,Stars,Followers,Repositories,Commits)
 
 ### About me:
 
