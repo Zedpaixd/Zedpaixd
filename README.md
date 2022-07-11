@@ -24,7 +24,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zedpaixd&count_private=true&hide=issues,contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zedpaixd&count_private=true&hide=issues,contribs,prs&show_icons=true&theme=tokyonight)
 
 <!--
 **Zedpaixd/Zedpaixd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
