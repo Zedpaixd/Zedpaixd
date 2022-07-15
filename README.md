@@ -41,7 +41,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
    LinkedIn: <a href="https://www.linkedin.com/in/armand-balint/">armand-balint</a>
 </div><br><br>
 
-
+---
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord&title=Joined2020,Stars,Followers,Repositories,Commits,MultiLanguage)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zedpaixd&count_private=true&hide=issues,contribs,prs&show_icons=true&theme=tokyonight)
