@@ -38,7 +38,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
 <div align="center"> 
   Discord: Planta#9305 <br>
   Email: balintarmand0@gmail.com <br>
-   LinkedIn: <a href="https://www.linkedin.com/in/armand-balint/">armand-balint</a>
+   LinkedIn: <a href="https://www.linkedin.com/in/armand-balint/">armand-balint</a> <br>
    (CV available on LinkedIn)
 </div><br><br>
 
