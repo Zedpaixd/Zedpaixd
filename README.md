@@ -16,7 +16,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
 -->
 
 <div>  
-  <dl><dd><dl><dd><dl><dd><dl><dd>Senior BSc student in Computer Science @ UVT Romania & TUAS (1 year long exchange student experience in Finland) <br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Senior BSc student in Computer Science @ UVT Romania & TUAS (exchange student for a year) <br></dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Ranked #1 student in 2021/2022 in my year at West University of Timisoara <br></dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>I have no preferred language and I can get behind anything else sort of easily.</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>I much prefer Back-end to Front-end.</dd></dl></dd></dl></dd></dl></dd></dl>
