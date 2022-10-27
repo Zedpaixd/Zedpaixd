@@ -1,9 +1,9 @@
 
-<h2 align="center"> About me: </h2>
+<h2 align="center">💻 About Me 💻</h2>
 
-<div align="center"> Hello there, I'm Armand / Alex! <br> <br>
+<!--<div align="center"> Hello there, I'm Armand / Alex! <br> <br>
 There are quite a few things I could say about myself, however, let's keep it short for now: <br> <br>
-   </div>
+   </div>-->
    
 <!--
 
@@ -35,7 +35,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
  
  
  
-<h2 align="center"> Contact: </h2>
+<h2 align="center"> 📱 Contact 📱 </h2>
 <div align="center"> 
   Discord: Planta#9305 <br>
   Email: balintarmand0@gmail.com <br>
@@ -45,9 +45,32 @@ There are quite a few things I could say about myself, however, let's keep it sh
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord&title=Joined2020,Stars,Followers,Repositories,Commits,MultiLanguage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zedpaixd&count_private=true&hide=issues,contribs,prs&show_icons=true&theme=tokyonight)
+<h2 align="center"> 	🏆 Trophies 🏆</h2>
 
+<p align="center">
+<a href="https://github.com/zedpaixd/zedpaixd/">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=zedpaixd&theme=nord&title=Joined2020,Stars,Followers,Repositories,Commits,MultiLanguage" alt="My Trophies" />
+</a>
+</p>
+
+<h2 align="center"> &#x1f4c8; Github Stats &#x1f4c8;</h2>
+
+<p align="center">
+<a href="https://github.com/zedpaixd/zedpaixd/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedpaixd&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/zedpaixd/zedpaixd/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zedpaixd&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+</p>
+
+
+---
+
+<p  align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=${zedpaixd}.${zedpaixd}" alt="visitor badge"/>
+</p>
 
 
 ₁₆.₀₄.₂₀₂₂ ʷᵃˢ ᵃ ᵛᵉʳʸ ᶠᵘⁿ ᵈᵃʸ
