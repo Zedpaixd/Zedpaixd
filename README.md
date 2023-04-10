@@ -21,8 +21,8 @@ There are quite a few things I could say about myself, however, let's keep it sh
   <dl><dd><dl><dd><dl><dd><dl><dd>I have no preferred language and I can get behind anything else sort of easily.</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>I much prefer Back-end to Front-end.</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Operating Systems I'm using: Windows, Ubuntu</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Currently know: Python, C/C++, Java, MySQL, R, Haskell, Prolog, HTML/CSS</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>And currently studying: JS & C#</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Currently know: Python, C#, C/C++, Java, MySQL, R, Haskell, Prolog, HTML/CSS, LaTeX</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>And currently studying: JS</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Spoken Languages: English, Romanian, Hungarian/French (can understand them, at least written)</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Languages I'm studying right now: Korean</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Most of my Work In Progresses are on private.</dd></dl></dd></dl></dd></dl></dd></dl>
