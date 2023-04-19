@@ -25,7 +25,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
   <dl><dd><dl><dd><dl><dd><dl><dd>And currently studying: JS</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Spoken Languages: English, Romanian, Hungarian/French (can understand them, at least written)</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Languages I'm studying right now: Korean</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Most of my Work In Progresses are on private.</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Most of my Projects and Work In Progresses are on private.</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Always open to collaborate.</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>I'm also open to any sort of questions so feel free to reach out and ask anything at any point.</dd></dl></dd></dl></dd></dl></dd></dl>
  </div>
