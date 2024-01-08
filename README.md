@@ -1,3 +1,6 @@
+<div>
+<h1 align="center">More active on GitLab currently.</h1> <br><br><br>
+</div>
 
 <h2 align="center">💻 About Me 💻</h2>
 
@@ -16,18 +19,15 @@ There are quite a few things I could say about myself, however, let's keep it sh
 -->
 
 <div>  
-  <dl><dd><dl><dd><dl><dd><dl><dd>Senior BSc student in Computer Science @ UVT Romania & TUAS (exchange student for a year) <br></dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Ranked #1 student in 2021/2022 in my year at West University of Timisoara (9.91/10 final grade)<br></dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>I have no preferred language and I can get behind anything else sort of easily.</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>I much prefer Back-end to Front-end.</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Operating Systems I'm using: Windows, Ubuntu</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Currently know: Python, C#, C/C++, Java, MySQL, R, Haskell, Prolog, HTML/CSS, LaTeX</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>And currently studying: JS</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Spoken Languages: English, Romanian, Hungarian/French (can understand them, at least written)</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Languages I'm studying right now: Korean</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Currently in the process of applying for a Master's Degree.<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Graduated in 2023 with a 9.6 GPA -- ranked #1 student in 2021/2022<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>I have no preferred language and I can easily adapt to fit new requirements.</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Strong interest in online security and ubiquitous computing</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Windows and Ubuntu enthusiast</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Proficient in: Python, C#, C/C++, Java, MySQL, R, Haskell, Prolog, HTML/CSS, LaTeX, JS, React Native</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Spoken Languages: English, Romanian, Hungarian/French (somewhat), Korean</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Most of my Projects and Work In Progresses are on private.</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Always open to collaborate.</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>I'm also open to any sort of questions so feel free to reach out and ask anything at any point.</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Always open to collaborate and questions so feel free to reach out at any time!</dd></dl></dd></dl></dd></dl></dd></dl>
  </div>
  
  
@@ -37,7 +37,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
  
 <h2 align="center"> 📱 Contact 📱 </h2>
 <div align="center"> 
-  Discord: Planta#9305 <br>
+  Discord: armandba <br>
   Email: balintarmand0@gmail.com <br>
    LinkedIn: <a href="https://www.linkedin.com/in/armand-balint/">armand-balint</a> <br>
    (CV available on LinkedIn)
