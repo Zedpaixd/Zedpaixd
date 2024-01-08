@@ -1,6 +1,10 @@
+
 <div>
 <h1 align="center">More active on GitLab currently.</h1> <br><br><br>
 </div>
+
+---
+
 
 <h2 align="center">💻 About Me 💻</h2>
 
