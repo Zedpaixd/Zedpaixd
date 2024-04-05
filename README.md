@@ -24,7 +24,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
 
 <div>  
   <dl><dd><dl><dd><dl><dd><dl><dd>MSc in Computer Science at Aalto Univeristy.<br></dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>BSC: 9.6 GPA -- ranked #1 student in 2021/2022<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>BSc: 9.6 GPA -- ranked #1 student in 2021/2022<br></dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>I have no preferred language and I can easily adapt to fit new requirements.</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Strong interest in online security and ubiquitous computing</dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd>Windows and Ubuntu enthusiast</dd></dl></dd></dl></dd></dl></dd></dl>
