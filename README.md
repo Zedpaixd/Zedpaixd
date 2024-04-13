@@ -1,55 +1,60 @@
 
-<div>
-<h1 align="center">More active on GitLab currently.</h1> <br><br><br>
-</div>
-
----
-
-
-<h2 align="center">💻 About Me 💻</h2>
-
-<!--<div align="center"> Hello there, I'm Armand / Alex! <br> <br>
-There are quite a few things I could say about myself, however, let's keep it short for now: <br> <br>
-   </div>-->
-   
 <!--
-
 
               Github please allow us to use <style> on README files...
 
                Atrocity ahead caused by the lack of styling options 
 
-
 -->
 
+
+<div>
+<h1 align="center">More active on GitLab currently.</h1> <br><br><br>
+</div>
+
+<!-- ABOUT ME -->
+
+<h2 align="center">💻 About Me 💻</h2>
 <div>  
-  <dl><dd><dl><dd><dl><dd><dl><dd>MSc in Computer Science at Aalto University<br></dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>BSc: 9.6 GPA -- ranked #1 student in 2021/2022<br></dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>I have no preferred language and I can easily adapt to fit new requirements.</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Strong interest in online security and ubiquitous computing</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Windows and Ubuntu enthusiast</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Proficient in: Python, C#, C/C++, Java, MySQL, R, Haskell, Prolog, HTML/CSS, LaTeX, JS, React Native</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Spoken Languages: English, Romanian, Hungarian/French (somewhat), Korean</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Most of my Projects and Work In Progresses are on private.</dd></dl></dd></dl></dd></dl></dd></dl>
-  <dl><dd><dl><dd><dl><dd><dl><dd>Always open to collaborate and questions so feel free to reach out at any time!</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>I'm 22 years old with 10 years of programming experience and 6 years of mentoring experience</dd></dl></dd></dl></dd></dl></dd></dl>
+   
+  <dl><dd><dl><dd><dl><dd><dl><dd>I have a strong passion for security and ubiquitous computing</dd></dl></dd></dl></dd></dl></dd></dl>
+  
+  <dl><dd><dl><dd><dl><dd><dl><dd>Feel free to speak to me in: English, Romanian, Korean, French, Hungarian (somewhat)</dd></dl></dd></dl></dd></dl></dd></dl>
+  
+  <dl><dd><dl><dd><dl><dd><dl><dd>A big part of my projects are private, so please get in touch to know more about them.</dd></dl></dd></dl></dd></dl></dd></dl>
+  
+  <dl><dd><dl><dd><dl><dd><dl><dd>I am always open to collaborate with others, so feel free to get in touch!</dd></dl></dd></dl></dd></dl></dd></dl>
  </div>
- 
- 
----
- 
- 
- 
+
+<!-- ACADEMICS -->
+
+<h2 align="center">📚 Academics 📚</h2>
+<div>  
+  <dl><dd><dl><dd><dl><dd><dl><dd>Master's Degree in Computer Science at <b>Aalto University</b> (QS #109)<br></dd></dl></dd></dl></dd></dl></dd></dl>
+   
+  <dl><dd><dl><dd><dl><dd><dl><dd><b>Specialization:</b> Cybersecurity - Scripting - Cloud<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  
+  <dl><dd><dl><dd><dl><dd><dl><dd>Bachelor's Degree in Computer Science (English) at West University of Timisoara<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  
+  <dl><dd><dl><dd><dl><dd><dl><dd><b>9.6 GPA & 100% comprehensive evaluation</b>, #1 student in 2021/2022, #2/120 graduation ranking<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  
+  <dl><dd><dl><dd><dl><dd><dl><dd><b>Thesis:</b> Exploring and Assessing the Efficacy of Static Code Analysis<br></dd></dl></dd></dl></dd></dl></dd></dl>
+ </div>
+
+<!-- CONTACT -->
+
 <h2 align="center"> 📱 Contact 📱 </h2>
 <div align="center"> 
   Discord: armandba <br>
   Email: balintarmand0@gmail.com <br>
-   LinkedIn: <a href="https://www.linkedin.com/in/armand-balint/">armand-balint</a> <br>
-   (CV available on LinkedIn)
+  LinkedIn: <a href="https://www.linkedin.com/in/armand-balint/">armand-balint</a> <br>
+  Feel free to visit my <a href="https://zedpaixd.github.io">website</a>! <br>
 </div><br><br>
 
 ---
 
-<h2 align="center"> 	🏆 Trophies 🏆</h2>
+<h3 align="center"> 	🏆 Trophies 🏆</h2>
 
 <p align="center">
 <a href="https://github.com/zedpaixd/zedpaixd/">
@@ -57,7 +62,7 @@ There are quite a few things I could say about myself, however, let's keep it sh
 </a>
 </p>
 
-<h2 align="center"> &#x1f4c8; Github Stats &#x1f4c8;</h2>
+<h3 align="center"> &#x1f4c8; Github Stats &#x1f4c8;</h2>
 <!--
 <p align="center">
 <a href="https://github.com/zedpaixd/zedpaixd/">
