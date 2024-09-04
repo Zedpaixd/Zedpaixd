@@ -31,7 +31,7 @@
 
 <h2 align="center">📚 Academics 📚</h2>
 <div>  
-  <dl><dd><dl><dd><dl><dd><dl><dd>Master's Degree in Computer Science at <b>Aalto University</b> (QS #109)<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Master's Degree in Computer Science at <b>Aalto University</b> (QS #109 & THE #40 Young Universities)<br></dd></dl></dd></dl></dd></dl></dd></dl>
    
   <dl><dd><dl><dd><dl><dd><dl><dd><b>Specialization:</b> Cybersecurity - Scripting - Cloud<br></dd></dl></dd></dl></dd></dl></dd></dl>
   
