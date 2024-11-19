@@ -33,13 +33,19 @@
 <div>  
   <dl><dd><dl><dd><dl><dd><dl><dd>Master's Degree in Computer Science at <b>Aalto University</b> (QS #109 & THE #40 Young Universities)<br></dd></dl></dd></dl></dd></dl></dd></dl>
    
-  <dl><dd><dl><dd><dl><dd><dl><dd><b>Specialization:</b> Cybersecurity - Scripting - Cloud<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><b>Specialization:</b> Cybersecurity [long major] - Scripting - Cloud<br></dd></dl></dd></dl></dd></dl></dd></dl>
   
   <dl><dd><dl><dd><dl><dd><dl><dd>Bachelor's Degree in Computer Science (English) at West University of Timisoara<br></dd></dl></dd></dl></dd></dl></dd></dl>
   
   <dl><dd><dl><dd><dl><dd><dl><dd><b>9.6 GPA & 100% comprehensive evaluation</b>, #1 student in 2021/2022, #2/120 graduation ranking<br></dd></dl></dd></dl></dd></dl></dd></dl>
   
   <dl><dd><dl><dd><dl><dd><dl><dd><b>Thesis:</b> Exploring and Assessing the Efficacy of Static Code Analysis<br></dd></dl></dd></dl></dd></dl></dd></dl>
+
+  <dl><dd><dl><dd><dl><dd><dl><dd><b>Teaching Assistant</b> for:  Network Security [Aalto University]<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>&nbsp;Algorithms and Data Structures II [West University of Timisoara]<br></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>&nbsp;Programming III [West University of Timisoara]<br></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>&nbsp;Object Oriented Programming (volunteer) [Turku AMK]<br></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+ 
  </div>
 
 <!-- CONTACT -->
