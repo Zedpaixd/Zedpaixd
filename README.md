@@ -16,11 +16,11 @@
 
 <h2 align="center">💻 About Me 💻</h2>
 <div>  
-  <dl><dd><dl><dd><dl><dd><dl><dd>I'm 22 years old with 10 years of programming experience and 6 years of mentoring experience</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Programming since 2012 and mentoring since 2016</dd></dl></dd></dl></dd></dl></dd></dl>
    
-  <dl><dd><dl><dd><dl><dd><dl><dd>I have a strong passion for security and ubiquitous computing</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Passionate about security and malware analysis</dd></dl></dd></dl></dd></dl></dd></dl>
   
-  <dl><dd><dl><dd><dl><dd><dl><dd>Feel free to speak to me in: English, Romanian, Korean, French, Hungarian (somewhat)</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>Can converse in: English, Romanian, Korean, French & Hungarian (somewhat)</dd></dl></dd></dl></dd></dl></dd></dl>
   
   <dl><dd><dl><dd><dl><dd><dl><dd>A big part of my projects are private, so please get in touch to know more about them.</dd></dl></dd></dl></dd></dl></dd></dl>
   
@@ -31,15 +31,19 @@
 
 <h2 align="center">📚 Academics 📚</h2>
 <div>  
-  <dl><dd><dl><dd><dl><dd><dl><dd>Master's Degree in Computer Science at <b>Aalto University</b> (QS #109 & THE #40 Young Universities)<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><b>Master's Degree</b> in Computer Science at <b>Aalto University</b><br></dd></dl></dd></dl></dd></dl></dd></dl>
    
-  <dl><dd><dl><dd><dl><dd><dl><dd><b>Specialization:</b> Cybersecurity [long major] - Scripting - Cloud<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd> <b>Specialization:</b> Cybersecurity [long major] - Cloud Development - Scripting <br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd> <b>GPA:</b> 4.8 / 5 as of Year 1<br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd> <b>Thesis:</b> Efficient TEE-Based Fine-Grained Progressive Code Randomization <br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
   
-  <dl><dd><dl><dd><dl><dd><dl><dd>Bachelor's Degree in Computer Science (English) at West University of Timisoara<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><b>Bachelor's Degree</b> in Computer Science (English) at West University of Timisoara<br></dd></dl></dd></dl></dd></dl></dd></dl>
   
-  <dl><dd><dl><dd><dl><dd><dl><dd><b>9.6 GPA & 100% comprehensive evaluation</b>, #1 student in 2021/2022, #2/120 graduation ranking<br></dd></dl></dd></dl></dd></dl></dd></dl>
+ <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd> <b>9.6 GPA & 100% comprehensive evaluation</b>, #1 student in 2021/2022, #2/120 graduation ranking<br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
   
-  <dl><dd><dl><dd><dl><dd><dl><dd><b>Thesis:</b> Exploring and Assessing the Efficacy of Static Code Analysis<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><b>Thesis:</b> Exploring and Assessing the Efficacy of Static Code Analysis<br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
   <dl><dd><dl><dd><dl><dd><dl><dd><b>Teaching Assistant</b> for:  Network Security [Aalto University]<br></dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>&nbsp;Algorithms and Data Structures II [West University of Timisoara]<br></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
