@@ -1,8 +1,6 @@
 
 <!--
 
-              Github please allow us to use <style> on README files...
-
                Atrocity ahead caused by the lack of styling options 
 
 -->
@@ -24,7 +22,6 @@
   
   <dl><dd><dl><dd><dl><dd><dl><dd>A big part of my projects are private, so please get in touch to know more about them.</dd></dl></dd></dl></dd></dl></dd></dl>
   
-  <dl><dd><dl><dd><dl><dd><dl><dd>I am always open to collaborate with others, so feel free to get in touch!</dd></dl></dd></dl></dd></dl></dd></dl>
  </div>
 
 <!-- ACADEMICS -->
@@ -33,9 +30,9 @@
 <div>  
   <dl><dd><dl><dd><dl><dd><dl><dd><b>Master's Degree</b> in Computer Science at <b>Aalto University</b><br></dd></dl></dd></dl></dd></dl></dd></dl>
    
-  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd> <b>Specialization:</b> Cybersecurity [long major] - Cloud Development - Scripting <br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd> <b>Specialization:</b> Cybersecurity [long major] - Malware - Security Engineering <br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
-  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd> <b>GPA:</b> 4.8 / 5 as of Year 1<br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd> <b>GPA:</b> 4.9 / 5 <br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
   <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd> <b>Thesis:</b> Efficient TEE-Based Fine-Grained Progressive Code Randomization <br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
   
@@ -45,7 +42,8 @@
   
   <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><b>Thesis:</b> Exploring and Assessing the Efficacy of Static Code Analysis<br></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
 
-  <dl><dd><dl><dd><dl><dd><dl><dd><b>Teaching Assistant</b> for:  Network Security [Aalto University]<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><b>Teaching Assistant</b> for:  Information Security [Aalto University]<br></dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>&nbsp;Network Security [Aalto University]<br></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>&nbsp;Algorithms and Data Structures II [West University of Timisoara]<br></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>&nbsp;Programming III [West University of Timisoara]<br></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
   <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl>&nbsp;Object Oriented Programming (volunteer) [Turku AMK]<br></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
@@ -59,7 +57,7 @@
   Discord: armandba <br>
   Email: balintarmand0@gmail.com <br>
   LinkedIn: <a href="https://www.linkedin.com/in/armand-balint/">armand-balint</a> <br>
-  Feel free to visit my <a href="https://zedpaixd.github.io">website</a>! <br>
+  Find out more about me <a href="https://zedpaixd.github.io/Portfolio">here</a> <br>
 </div><br><br>
 
 ---
