@@ -113,6 +113,25 @@
   <img src="https://img.shields.io/badge/OllyDbg-550000?style=for-the-badge" alt="OllyDbg" />
 </p>
 
+<h3 align="center">Platform Security & Systems</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+  <img src="https://img.shields.io/badge/ARM_TrustZone-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM TrustZone" />
+  <img src="https://img.shields.io/badge/OP--TEE-222222?style=for-the-badge" alt="OP-TEE" />
+  <img src="https://img.shields.io/badge/Hypervisors-4B0082?style=for-the-badge" alt="Hypervisors" />
+  <img src="https://img.shields.io/badge/Secure_Boot-005500?style=for-the-badge" alt="Secure Boot" />
+</p>
+
+<h3 align="center">Operating Systems & Kernels</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Kernel" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Windows_Kernel-00599C?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Kernel" />
+  <img src="https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=white" alt="HarmonyOS" />
+  <img src="https://img.shields.io/badge/Hongmeng_Kernel-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white" alt="Hongmeng Kernel" />
+</p>
+
 ---
 
 <h2 align="center">🏆 GitHub Stats & Trophies</h2>
