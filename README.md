@@ -20,36 +20,61 @@
 
 <br>
 
-## 💻 About Me
--  Programming since 2012 and mentoring since 2016.
--  Interested in **security** and **malware analysis**.
--  **Languages:** English, Romanian, Korean, French, & Hungarian (somewhat).
--  *Note: A \[very\] big part of my projects non-negotiably closed-source to prevent misuse. Please get in touch if curious*
+<h2 align="center">💻 About Me</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <ul>
+          <li>Programming since 2012 and mentoring since 2016.</li>
+          <li>Interested in <b>security</b> and <b>malware analysis</b>.</li>
+          <li><b>Languages:</b> English, Romanian, Korean, French, & Hungarian (somewhat).</li>
+          <li><i>Note: A [very] big part of my projects non-negotiably closed-source to prevent misuse. Please get in touch if curious</i></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📚 Academics
+<h2 align="center">📚 Academics</h2>
 
-### Master's Degree in Computer Science
-**Aalto University**
-- **Specialization:** Cybersecurity [Long Major] • Malware • Security Engineering
-- **GPA:** 4.9 / 5.0
-- **Thesis:** *Preshuf: Pre-Shuffling Binaries in Secure Hardware* - \[Grade 5\]
-
-### Bachelor's Degree in Computer Science (English)
-**West University of Timisoara**
-- **Achievements:** 
-  - 🥇 9.6 GPA & 100% comprehensive evaluation 
-  - 🥇 #1 student in 2021/2022 
-  - 🥈 #2/120 graduation ranking
-- **Thesis:** *Exploring and Assessing the Efficacy of Static Code Analysis*
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <h3>Master's Degree in Computer Science</h3>
+        <b>Aalto University</b>
+        <ul>
+          <li><b>Specialization:</b> Cybersecurity [Long Major] • Malware • Security Engineering</li>
+          <li><b>GPA:</b> 4.9 / 5.0</li>
+          <li><b>Thesis:</b> <i>Preshuf: Pre-Shuffling Binaries in Secure Hardware</i> - [Grade 5]</li>
+        </ul>
+        <h3>Bachelor's Degree in Computer Science (English)</h3>
+        <b>West University of Timisoara</b>
+        <ul>
+          <li><b>Achievements:</b> 
+            <ul>
+              <li>🥇 9.6 GPA & 100% comprehensive evaluation </li>
+              <li>🥇 #1 student in 2021/2022 </li>
+              <li>🥈 #2/120 graduation ranking</li>
+            </ul>
+          </li>
+          <li><b>Thesis:</b> <i>Exploring and Assessing the Efficacy of Static Code Analysis</i></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🛠️ My Skills
+<h2 align="center">🛠️ My Skills</h2>
 
-### Languages
-<p align="left">
+<h3 align="center">Languages</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -64,8 +89,8 @@
   <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
 </p>
 
-### Tools
-<p align="left">
+<h3 align="center">Tools</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -90,7 +115,7 @@
 
 ---
 
-## 🏆 GitHub Stats & Trophies
+<h2 align="center">🏆 GitHub Stats & Trophies</h2>
 
 <p align="center">
   <a href="https://github.com/zedpaixd/zedpaixd/">
