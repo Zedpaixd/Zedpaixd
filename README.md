@@ -30,7 +30,7 @@
           <li>Programming since 2012 and mentoring since 2016.</li>
           <li>Interested in <b>security</b> and <b>malware analysis</b>.</li>
           <li><b>Languages:</b> English, Romanian, Korean, French, & Hungarian (somewhat).</li>
-          <li><i>Note: A [very] big part of my projects non-negotiably closed-source to prevent misuse. Please get in touch if curious</i></li>
+          <li><i>Note: A [very] big part of my projects are non-negotiably closed-source to prevent misuse. Please get in touch if curious</i></li>
         </ul>
       </td>
     </tr>
