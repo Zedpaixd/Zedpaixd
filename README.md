@@ -52,7 +52,7 @@
           <li><b>GPA:</b> 4.9 / 5.0</li>
           <li><b>Thesis:</b> <i>Preshuf: Pre-Shuffling Binaries in Secure Hardware</i> - [Grade 5]</li>
         </ul>
-        <h3>Bachelor's Degree in Computer Science (English)</h3>
+        <h3>Bachelor's Degree in Computer Science</h3>
         <b>West University of Timisoara</b>
         <ul>
           <li><b>Achievements:</b> 
