@@ -30,7 +30,7 @@
           <li>Programming since 2012 and mentoring since 2016.</li>
           <li>Interested in <b>security</b> and <b>malware analysis</b>.</li>
           <li><b>Languages:</b> English, Romanian, Korean, French, & Hungarian (somewhat).</li>
-          <li><i>Note: A [very] big part of my projects are non-negotiably closed-source to prevent misuse. Please get in touch if curious</i></li>
+          <li><i>Note: A [very] big part of my projects are non-negotiably closed-source to prevent misuse. Please get in touch if curious.</i></li>
         </ul>
       </td>
     </tr>
@@ -63,6 +63,25 @@
             </ul>
           </li>
           <li><b>Thesis:</b> <i>Exploring and Assessing the Efficacy of Static Code Analysis</i></li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">💼 Work Experience</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <ul>
+          <li><b>Security Researcher</b> (~1.5 years) [Current]</li>
+          <li><b>System Programmer</b> (~2.5 years)</li>
+          <li><b>Teaching Assistant / Lab Instructor / Assistant Lecturer</b> (1.5 years)</li>
+          <li><b>Information Analyst</b> (~1 year)</li>
         </ul>
       </td>
     </tr>
