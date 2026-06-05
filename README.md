@@ -63,6 +63,7 @@
             </ul>
           </li>
           <li><b>Thesis:</b> <i>Exploring and Assessing the Efficacy of Static Code Analysis</i></li>
+        </ul>
         <h3>Exchange Program</h3>
         <b>Turku University of Applied Sciences (Turku AMK)</b>
         <ul>
