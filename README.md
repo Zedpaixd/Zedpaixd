@@ -63,6 +63,15 @@
             </ul>
           </li>
           <li><b>Thesis:</b> <i>Exploring and Assessing the Efficacy of Static Code Analysis</i></li>
+        <h3>Exchange Program</h3>
+        <b>Turku University of Applied Sciences (Turku AMK)</b>
+        <ul>
+          <li><b>Achievements:</b>
+            <ul>
+              <li>🥇 Awarded for Capstone (startup) development work & pitching</li>
+              <li>🥇 Work awarded at the ICT Showroom event</li>
+            </ul>
+          </li>
         </ul>
       </td>
     </tr>
