@@ -39,6 +39,27 @@
 
 ---
 
+<h2 align="center">💼 Experience</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <ul>
+          <li><b>Security Researcher</b> (~1.5 years) [Current]</li>
+          <li><b>System Programmer</b> (~2.5 years)</li>
+          <li><b>Teaching Assistant / Lab Instructor / Assistant Lecturer</b> (1.5 years)</li>
+          <li><b>Information Analyst</b> (~1 year)</li>
+          <hr />
+          <li>[Independent work] <b>Windows Malware Analyst</b> (~6 years)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <h2 align="center">📚 Academics</h2>
 
 <div align="center">
@@ -73,25 +94,6 @@
               <li>🥇 Work awarded at the ICT Showroom event</li>
             </ul>
           </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h2 align="center">💼 Work Experience</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <ul>
-          <li><b>Security Researcher</b> (~1.5 years) [Current]</li>
-          <li><b>System Programmer</b> (~2.5 years)</li>
-          <li><b>Teaching Assistant / Lab Instructor / Assistant Lecturer</b> (1.5 years)</li>
-          <li><b>Information Analyst</b> (~1 year)</li>
         </ul>
       </td>
     </tr>
